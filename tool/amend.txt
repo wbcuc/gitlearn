@@ -1,1 +1,1 @@
-test amend 3 4
+test amend 3 4 4 3
