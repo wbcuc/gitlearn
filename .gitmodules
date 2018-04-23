@@ -2,9 +2,6 @@
 	path = submo-2
 	url = https://github.com/wbcuc/gitsubm-2
 	branch = master
-[submodule "gitsubm-3"]
-	path = gitsubm-3
-	url = https://github.com/wbcuc/gitsubm-3
 [submodule "gitsubm-1"]
 	path = gitsubm-1
 	url = https://github.com/wbcuc/gitsubm-1
